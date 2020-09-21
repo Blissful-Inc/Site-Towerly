@@ -1,8 +1,10 @@
 # Site-Towerly
 Games built with javascript, education mockup 
+<br>
 
 <img src="https://raw.githubusercontent.com/Blissful-Inc/Webite-Towerly/master/images/towerly-logo.png?token=AODLIOCSRYCT66L3VQ6TKH27NBT4W" width="400" height="250">
 
+<br>
 TODO
 - [x] Initialize App
 - [_] Complete 10 Javascript Projects (Example Video)
